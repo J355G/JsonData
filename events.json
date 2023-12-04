@@ -1,0 +1,60 @@
+{
+    "events": [
+        {
+            "title": "Adults Event",
+            "description" : "Bring your own alcohol and make your own sweets",
+            "whatsIncluded": "We will provide everyone with a retro sweet box for inspiration and consumption",
+            "capacity": "1-12 adults",
+            "duration": "3 hours",
+            "price": "£30 per person",
+            "imgURL": "https://j355g.github.io/JsonData/images/AdultsEvent.jpg"
+        },
+        {
+            "title": "Kids Event",
+            "description" : "Decorate your own pick n mix tub and then fill it up from our pick n mix selection",
+            "whatsIncluded": "Juice will be provided for kids and hot drinks will be provided for parents/guardians",
+            "capacity": "1-12 kids",
+            "duration": "2 hours",
+            "price": "£10 per child",
+            "imgURL": "https://j355g.github.io/JsonData/images/KidsEvent.jpg"
+        },
+        {
+            "title": "Private Functions",
+            "description" : "Bring your own alcohol and make your own sweets",
+            "whatsIncluded": "We can provide a range of sweet packages for you to enjoy throughout your event",
+            "capacity": "1-12 people",
+            "duration": "maximum 5 hours",
+            "price": "£15 per hour per person",
+            "imgURL": "https://j355g.github.io/JsonData/images/PrivateFunctions.jpg",
+            "packages": [
+                {
+                    "name": "Retro Package",
+                    "whatsIncluded": [
+                        {
+                            "item": "retro sweet boxes",
+                            "drinks": "retro fizzy drinks"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pick n Mix Package",
+                    "whatsIncluded": [
+                        {
+                            "item": "pick n mix boxes",
+                            "drinks": "milkshakes and frappes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chocolate Package",
+                    "whatsIncluded": [
+                        {
+                            "item": "chocolate boxes",
+                            "drinks": "hot chocolate, tea and coffe"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
