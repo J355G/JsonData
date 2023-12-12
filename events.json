@@ -1,6 +1,7 @@
 {
     "events": [
         {
+            "id": 1,
             "title": "Adults Event",
             "description" : "Bring your own alcohol and make your own sweets",
             "whatsIncluded": "We will provide everyone with a retro sweet box for inspiration and consumption",
@@ -10,6 +11,7 @@
             "imgUrl": "https://j355g.github.io/JsonData/images/AdultsEvent.jpg"
         },
         {
+            "id": 2,
             "title": "Kids Event",
             "description" : "Decorate your own pick n mix tub and then fill it up from our pick n mix selection",
             "whatsIncluded": "Juice will be provided for kids and hot drinks will be provided for parents/guardians",
@@ -19,6 +21,7 @@
             "imgUrl": "https://j355g.github.io/JsonData/images/KidsEvent.jpg"
         },
         {
+            "id": 3,
             "title": "Private Functions",
             "description" : "Bring your own alcohol and make your own sweets",
             "whatsIncluded": "We can provide a range of sweet packages for you to enjoy throughout your event",
