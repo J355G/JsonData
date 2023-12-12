@@ -26,7 +26,7 @@
             "description" : "Bring your own alcohol and make your own sweets",
             "whatsIncluded": "We can provide a range of sweet packages for you to enjoy throughout your event",
             "capacity": "1-12 people",
-            "duration": "maximum 5 hours",
+            "duration": "Between 2-5 hours",
             "price": "£15 per hour per person",
             "imgUrl": "https://j355g.github.io/JsonData/images/PrivateFunctions.jpg",
             "packages": [
@@ -34,8 +34,8 @@
                     "name": "Retro Package",
                     "whatsIncluded": [
                         {
-                            "item": "retro sweet boxes",
-                            "drinks": "retro fizzy drinks"
+                            "item": "Retro sweet boxes",
+                            "drinks": "Retro fizzy drinks"
                         }
                     ]
                 },
@@ -43,8 +43,8 @@
                     "name": "Pick n Mix Package",
                     "whatsIncluded": [
                         {
-                            "item": "pick n mix boxes",
-                            "drinks": "milkshakes and frappes"
+                            "item": "Pick n mix boxes",
+                            "drinks": "Milkshakes and frappes"
                         }
                     ]
                 },
@@ -52,8 +52,8 @@
                     "name": "Chocolate Package",
                     "whatsIncluded": [
                         {
-                            "item": "chocolate boxes",
-                            "drinks": "hot chocolate, tea and coffe"
+                            "item": "Chocolate boxes",
+                            "drinks": "Hot chocolate, tea and coffe"
                         }
                     ]
                 }
