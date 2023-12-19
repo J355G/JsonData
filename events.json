@@ -8,7 +8,7 @@
             "capacity": "1-12 adults",
             "duration": "3 hours",
             "price": "£30 per person",
-            "imgUrl": "https://j355g.github.io/JsonData/images/AdultsEvent.jpg"
+            "imgURL": "https://j355g.github.io/JsonData/images/AdultsEvent.jpg"
         },
         {
             "id": 2,
@@ -18,7 +18,7 @@
             "capacity": "1-12 kids",
             "duration": "2 hours",
             "price": "£10 per child",
-            "imgUrl": "https://j355g.github.io/JsonData/images/KidsEvent.jpg"
+            "imgURL": "https://j355g.github.io/JsonData/images/KidsEvent.jpg"
         },
         {
             "id": 3,
@@ -28,7 +28,7 @@
             "capacity": "1-12 people",
             "duration": "Between 2-5 hours",
             "price": "£15 per hour per person",
-            "imgUrl": "https://j355g.github.io/JsonData/images/PrivateFunctions.jpg",
+            "imgURL": "https://j355g.github.io/JsonData/images/PrivateFunctions.jpg",
             "packages": [
                 {
                     "name": "Retro Package",
